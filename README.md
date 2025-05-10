@@ -1,6 +1,4 @@
-Here's a `README.md` tailored for your project, assuming it's named **AvsarAI** – an AI-powered job application assistant using Flask, Playwright, Vue, and Gemini (Google Generative AI):
 
----
 
 # 🧠 AvsarAI — AI-Powered Job Application Assistant
 
